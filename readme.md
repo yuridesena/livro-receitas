@@ -1,4 +1,4 @@
-# Livro de Receitas
+# Livro de Receitas :cook: :wave:
 
 Olá, seja bem vindo ao livro de receitas!
 
